@@ -22,6 +22,9 @@ Remember Tamagotchis? 2024 it's called pocket pets. ☺️ This cozy app invites
 - [Markus Sibbe](https://github.com/Miningmark)
 - [Nina Weber](https://github.com/ninagw)
 
+### Workflow
+The project was implemented in an agile workflow. User stories, pull requests and QAs as well as weekly sprint reviews ensured the code quality. In addition, daily stand ups, a project board on GitHub and close coordination within the team helped implementing the shared vision. The team also used wireframes using Excalidraw to bring their ideas to life and the design consistent. All important design elements such as colors, images or fonts were collected on a shared Figma board.
+
 ## Development
 
 ### Local Development
