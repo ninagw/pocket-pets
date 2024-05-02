@@ -17,10 +17,8 @@ Remember Tamagotchis? 2024 it's called pocket pets. ☺️ This cozy app invites
 ## Technologies & Tools
 [React](https://react.dev/) | [Next.js](https://nextjs.org/) | [styled-components](https://styled-components.com/) | [zustand](https://zustand-demo.pmnd.rs/) | [KaboomJS](https://kaboomjs.com/) | [Node.js](https://nodejs.org/en) | [SWR](https://swr.vercel.app/) | [NextAuth.js](https://next-auth.js.org/) | [MongoDB](https://www.mongodb.com/) | [Mongoose](https://mongoosejs.com/) | [Vercel](https://vercel.com/) | Git | GitHub 
 
-## Agile Workflow
+## Team
 The project was implemented in an agile workflow. User stories, pull requests and QAs as well as weekly sprint reviews ensured the code quality. In addition, daily stand ups, a project board on GitHub and close coordination within the team helped implementing the shared vision. The team also used wireframes using Excalidraw to bring their ideas to life and the design consistent. All important design elements such as colors, images or fonts were collected on a shared Figma board.
-
-### Team
 - [Krischan Klug](https://github.com/Krischan-Klug)
 - [Markus Sibbe](https://github.com/Miningmark)
 - [Nina Weber](https://github.com/ninagw)
